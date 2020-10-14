@@ -1,5 +1,4 @@
-### Hi
-\
+### Hey it's me, ya boi
 🔭 I’m currently working on automating infrastructure deployments on multiple cloud providers using Terraform
 \
 🌱 I’m currently learning Terraform

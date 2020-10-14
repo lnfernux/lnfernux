@@ -1,8 +1,11 @@
-### About
-
+### Hi
+\
 🔭 I’m currently working on automating infrastructure deployments on multiple cloud providers using Terraform
+\
 🌱 I’m currently learning Terraform
+\
 🤔 I’m looking for help with C#
+\
 📫 How to reach me: I'm on twitter
 
 <!--

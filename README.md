@@ -1,11 +1,5 @@
 ### Hey it's me, ya boi
-🔭 I’m currently working on automating infrastructure deployments on multiple cloud providers using Terraform
-\
-🌱 I’m currently learning Terraform
-\
-🤔 I’m looking for help with C#
-\
-📫 How to reach me: I'm on twitter
+🔭 I’m currently working on automating infrastructure deployments
 
 <!--
 **infernuxmonster/infernuxmonster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
